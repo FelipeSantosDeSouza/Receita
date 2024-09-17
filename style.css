@@ -68,12 +68,12 @@ footer{
   .card{
     background-color: rgba(254, 219, 204, 0.567);  
     padding: 5px;
-
     margin: 20px auto;
     width: 500px;
     border-radius: 5px;
     font-weight: 300px;
     border: solid;
+
   }
 
   li{
@@ -90,7 +90,6 @@ footer{
     padding: 15px;
   }
 
- /* Contêiner que vai abrigar os elementos lado a lado */
 .container {
   margin-bottom: 20px;
   display: flex;
@@ -102,6 +101,7 @@ span{
   font-weight: bold;
   color: #832f05;
 }
+
 .info1 {
   background: #FBF7F1;
   border-radius: 10px;
@@ -114,7 +114,6 @@ span{
 
 .tabela{
   color:#53240C;
- 
   padding: 5px;
   
 }  
